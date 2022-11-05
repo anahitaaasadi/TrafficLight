@@ -1,0 +1,34 @@
+net "input1[0]" loc = p34;
+net "input1[1]" loc = p33;
+net "input1[2]" loc = p31;
+net "input1[3]" loc = p29;
+net "input1[4]" loc = p28;
+net "input1[5]" loc = p27;
+net "input1[6]" loc = p26;
+
+net "input2[0]" loc = p12;
+net "input2[1]" loc = p11;
+net "input2[2]" loc = p10;
+net "input2[3]" loc = p9;
+net "input2[4]" loc = p7;
+net "input2[5]" loc = p5;
+net "input2[6]" loc = p4;
+
+net "mode[0]" loc = p24;
+net "mode[1]" loc = p3;
+
+net "clk" loc = p80;
+
+net "output[0]" loc = p140;
+net "output[1]" loc = p139;
+net "output[2]" loc = p138;
+net "output[3]" loc = p137;
+net "output[4]" loc = p135;
+net "output[5]" loc = p133;
+net "output[6]" loc = p132;
+net "output[7]" loc = p131;
+
+net "com[0]" loc = p125;
+net "com[1]" loc = p126;
+net "com[2]" loc = p128;
+net "com[3]" loc = p130;
